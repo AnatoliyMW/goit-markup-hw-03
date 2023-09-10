@@ -145,8 +145,10 @@ img {
 .menu {
   display: flex;
   gap: 40px;
+  list-style-type: none;
 }
 .mailtel {
   display: flex;
   gap: 40px;
+  list-style-type: none;
 }
