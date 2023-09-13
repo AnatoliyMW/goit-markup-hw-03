@@ -105,6 +105,7 @@ span {
   color: #ffffff;
   max-width: 496px;
   margin: 0 auto;
+  margin-bottom: 48px;
 }
 .button {
   background-color: #4d5ae5;
@@ -122,6 +123,7 @@ span {
   border-radius: 4px;
   cursor: pointer;
   margin: 0 auto;
+  padding: 16px 32px;
 }
 .button:hover {
   background-color: #404bbf;
@@ -189,6 +191,20 @@ span {
   background-color: #ffffff;
   width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
+}
+.strategy-third {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  margin-bottom: 8px;
+  text-align: center;
+}
+.par-third {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
 }
 .name {
   padding-top: 32px;
