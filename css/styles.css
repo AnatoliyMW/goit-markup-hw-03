@@ -67,6 +67,9 @@ span {
 .adress {
   font-style: normal;
   margin-left: auto;
+  align-items: center;
+  justify-content: center;
+  display: flex;
 }
 .mailtel {
   display: flex;
@@ -96,6 +99,12 @@ span {
 .container {
   width: 1158px;
   padding: 0 15px;
+  margin: 0 auto;
+}
+
+.divnav {
+  display: flex;
+  width: 1158px;
   margin: 0 auto;
 }
 .title {
@@ -264,10 +273,4 @@ ul {
 }
 img {
   display: block;
-}
-
-.div {
-  display: flex;
-  width: 1158px;
-  margin: 0 auto;
 }
